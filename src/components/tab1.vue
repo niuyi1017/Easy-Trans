@@ -269,7 +269,7 @@ ul li {
 }
 .background{
   
-    margin-top: 90%;
+    margin-top: 100%;
     padding: 40px;
     color: #a2a9b6;
    
