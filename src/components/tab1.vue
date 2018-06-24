@@ -268,8 +268,8 @@ ul li {
 
 }
 .background{
-   
-    margin-top: 50%;
+  
+    margin-top: 90%;
     padding: 40px;
     color: #a2a9b6;
    
