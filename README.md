@@ -11,16 +11,21 @@
 * 轻量级 -- 拒绝鸡肋功能，无广告，无推送，无推荐，专注翻译  
     
 ## 快速使用  
-* [Live Demo](https://niuyi1017.github.io/Easy-Trans)    
-   
-* ![常见语言自动识别](http://blog.qiniudn.com/18-7-23/14360300.jpg) 
-* ![长文本自动切换](http://blog.qiniudn.com/18-7-23/87260765.jpg)
+#### 点击查看[Live Demo](https://niuyi1017.github.io/Easy-Trans)   
+
+#### 效果图  
+* 即输即译，无需多余点击![即输即译，无需多余点击](http://p7kyjkmgh.bkt.clouddn.com/8ede00a9ly1fsmm2lcx0tg20gn0ihjx2.gif)   
+  
+* 长文本自动切换翻译模式![长文本自动切换翻译模式](http://p7kyjkmgh.bkt.clouddn.com/8ede00a9ly1fsmm2rc55bg20gn0ihq8i.gif)  
+* 
 ## 开发  
-Vue + iview + VueCli + VS Code
+Vue + iview + VueCli + VS Code  
+
 开源在[github](https://github.com/niuyi1017/Easy-Trans)，欢迎star
 详见[开发文档]()  
 ## 交流   
-欢迎在[github issues](https://github.com/niuyi1017/Easy-Trans/issues)交流   
+欢迎在[github issues](https://github.com/niuyi1017/Easy-Trans/issues)提交问题  
+
 
 ## 更新日志 
 #### 2018.06.24 -- v 0.0.1
@@ -29,4 +34,9 @@ Vue + iview + VueCli + VS Code
 ## TodoList
 
 ## 关于
-其他你想了解的都在[这里]()
+其他你想了解的都在[这里]()  
+
+## 请喝咖啡  
+######　如果您觉得对您有帮助，欢迎给我打赏 ———— 以激励我更多输出优质开源内容
+![](http://p7kyjkmgh.bkt.clouddn.com/1532353718843.jpg)
+![](http://p7kyjkmgh.bkt.clouddn.com/mm_facetoface_collect_qrcode_1532353696216.png)
