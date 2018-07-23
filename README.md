@@ -17,7 +17,7 @@
 * 即输即译，无需多余点击![即输即译，无需多余点击](http://p7kyjkmgh.bkt.clouddn.com/8ede00a9ly1fsmm2lcx0tg20gn0ihjx2.gif)   
   
 * 长文本自动切换翻译模式![长文本自动切换翻译模式](http://p7kyjkmgh.bkt.clouddn.com/8ede00a9ly1fsmm2rc55bg20gn0ihq8i.gif)  
-* 
+  
 ## 开发  
 Vue + iview + VueCli + VS Code  
 

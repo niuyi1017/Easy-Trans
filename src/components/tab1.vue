@@ -11,7 +11,7 @@
             
         </RadioGroup>
         
-        <Input class="query"  v-model="query" placeholder="请输入单词或句子..." clearable style="width: 90%"></Input>
+        <Input class="query"  v-model="query" placeholder="请输入单词或句子..." clearable style="width: 90%"> </Input>
 
         <transition name="fade">
             <div class="result" v-if="query!=''">
