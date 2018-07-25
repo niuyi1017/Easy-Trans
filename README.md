@@ -45,6 +45,7 @@ Vue + iview + VueCli + VS Code
 其他你想了解的都在[这里]()  
 
 ## 请喝咖啡  
-###### 如果您觉得对您有帮助，欢迎给我打赏 ———— 以激励我更多输出优质开源内容 
+###### 如果您觉得对您有帮助，欢迎给我打赏 ———— 以激励我更多输出优质开源内容   
+<center>
 <img src = "http://p7kyjkmgh.bkt.clouddn.com/1532353718843.jpg" width=200>
-
+</center>
